@@ -32,6 +32,7 @@ One-click dataset export
 * Frontend	TailwindCSS
 * ML & Data	PyTorch scikit-learn
 * Visualization	Matplotlib Seaborn
+* Database PostgreSql
 
 ### Quick Start
 # Create virtual environment
@@ -66,11 +67,13 @@ AutoML Desk/
 * Smart Cleaning: Automated detection and handling of data issues
 * Advanced Preprocessing: Feature scaling, encoding, and normalization
 * Quality Assurance: Comprehensive data quality checks and validation
+
 ### Machine Learning Models
 * Classification: Binary and multi-class classification support
 * Regression: Linear, non-linear, and ensemble methods
 * Clustering: K-means and hierarchical clustering
 * Deep Learning: Customizable neural network architectures
+
 ### Analytics & Visualization
 * Data Insights: Distribution analysis and correlation studies
 * Model Metrics: ROC curves, confusion matrices, and learning curves
